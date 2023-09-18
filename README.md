@@ -13,4 +13,4 @@ Working video
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/depth_frame_raw.png)
 
 
-Other detials will be updates soon.
+Other details will be updates soon.
