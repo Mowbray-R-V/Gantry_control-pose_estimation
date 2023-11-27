@@ -1,4 +1,4 @@
-# Pick an place with gantry robot using computer vsion
+# Pick an place with gantry robot using computer vsion for position estimation of payload
 
 
 Working video
