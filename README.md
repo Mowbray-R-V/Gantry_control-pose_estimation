@@ -1,4 +1,4 @@
-# Pick an place with gantry robot using computer vsion for position estimation of payload
+# Pick an place with gantry robot using computer vision for position estimation of payload
 
 
 Working video:  https://drive.google.com/file/d/1TPmapCVJ2jzq59Q0sCE0AbimSb1MGtFU/view?usp=sharing
