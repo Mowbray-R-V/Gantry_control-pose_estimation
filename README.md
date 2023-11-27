@@ -1,10 +1,7 @@
 # Pick an place with gantry robot using computer vsion for position estimation of payload
 
 
-Working video
- https://drive.google.com/file/d/1ezL0RN22O9lavCXFVHtLzWcOmI02gC11/view?usp=sharing
-
- https://drive.google.com/file/d/1TPmapCVJ2jzq59Q0sCE0AbimSb1MGtFU/view?usp=sharing
+Working video:  https://drive.google.com/file/d/1TPmapCVJ2jzq59Q0sCE0AbimSb1MGtFU/view?usp=sharing
 
 
        
