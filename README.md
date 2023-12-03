@@ -28,8 +28,7 @@ mapping the depth information from the target coordinates
 # Camera setup
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/camera.PNG)
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/Snap-shots-from-L515-and-D455.PNG)
-
-Snapshots from L515 and D455 camera
+     **Snapshots from L515 and D455 camera**
 
 
 
