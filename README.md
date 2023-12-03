@@ -15,7 +15,7 @@ Report: https://drive.google.com/file/d/1IQzFFvCzEuC6SzEnwqLzhPir_Ps1RX-4/view?u
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/dummy-test.PNG)
 
 # Results in real-time plant
-![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/real-time.PNG)
+![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/real-time.png)
 
 
 #### Add weights file
