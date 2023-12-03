@@ -13,8 +13,8 @@ Report: https://drive.google.com/file/d/1IQzFFvCzEuC6SzEnwqLzhPir_Ps1RX-4/view?u
 
 
 
-![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/bgr_frame.jpg)
-
+![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/ingot_result.PNG)
+![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/dummy-test.PNG)
 
 
 
