@@ -30,7 +30,7 @@ Report: https://drive.google.com/file/d/1IQzFFvCzEuC6SzEnwqLzhPir_Ps1RX-4/view?u
 # Camera setup
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/camera.PNG)
 
-                         **Snapshots from L515 and D455 camera**
+**Snapshots from L515 and D455 camera**
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/Snap-shots-from-L515-and-D455.PNG)
     
 
