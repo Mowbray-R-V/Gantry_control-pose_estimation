@@ -21,7 +21,9 @@ Report: https://drive.google.com/file/d/1IQzFFvCzEuC6SzEnwqLzhPir_Ps1RX-4/view?u
 #### Add weights file
 
 # Camera setup
-depth , what and what ???
+![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/camera.PNG)
+![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/Snap-shots-from-L515-and-D455.PNG)
+Snapshots from L515 and D455 camera
 
 
 # Faster RCCN
