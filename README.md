@@ -57,4 +57,6 @@ results
 
 
 # References
-1.
+1. Robotic Manipulation:Perception, Planning, and Control (Course Notes for MIT 6.832) - Russ Tedrake, 2021
+2. https://pjreddie.com/darknet/yolo/
+
