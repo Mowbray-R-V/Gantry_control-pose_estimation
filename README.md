@@ -20,15 +20,19 @@ Report: https://drive.google.com/file/d/1IQzFFvCzEuC6SzEnwqLzhPir_Ps1RX-4/view?u
 # Layout
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/layout.PNG)
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/layout-2.PNG)
+
+                    **mapping the depth information from the target coordinates**
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/mapping-depth-information-from-the-target-coordinates.PNG)
 
-mapping the depth information from the target coordinates
+
 
 
 # Camera setup
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/camera.PNG)
+
+                         **Snapshots from L515 and D455 camera**
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/Snap-shots-from-L515-and-D455.PNG)
-     **Snapshots from L515 and D455 camera**
+    
 
 
 
