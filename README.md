@@ -13,5 +13,11 @@ Report: https://drive.google.com/file/d/1IQzFFvCzEuC6SzEnwqLzhPir_Ps1RX-4/view?u
 
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/depth_frame_raw.png)
 
+# Faster RCCN
+results
 
-Other details will be updates soon.
+# Fast RCCN
+results
+
+# YOLOV3
+results
