@@ -18,8 +18,13 @@ Report: https://drive.google.com/file/d/1IQzFFvCzEuC6SzEnwqLzhPir_Ps1RX-4/view?u
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/real-time.png)
 
 # Layout
+![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/block-diagram.PNG)
+
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/layout.PNG)
+
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/layout-2.PNG)
+
+
 
 **mapping the depth information from the target coordinates**
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/mapping-depth-information-from-the-target-coordinates.PNG)
