@@ -6,12 +6,10 @@ Working video:  https://drive.google.com/file/d/1TPmapCVJ2jzq59Q0sCE0AbimSb1MGtF
 Report: https://drive.google.com/file/d/1IQzFFvCzEuC6SzEnwqLzhPir_Ps1RX-4/view?usp=sharing
 ### change video google drive ownership
 
-       
+# scaled down ingot model in lab setting       
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/bgr_frame.jpg)
 
-![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/M_Detection.jpg)
 
-![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/depth_frame_raw.png)
 
 
 #### Add weights file
