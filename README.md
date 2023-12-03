@@ -8,7 +8,7 @@ Report: https://drive.google.com/file/d/1IQzFFvCzEuC6SzEnwqLzhPir_Ps1RX-4/view?u
 
 # scaled down ingot model for lab      
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/ingot.PNG)
-
+![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/lab-dummy-model.PNG)
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/classes.PNG)
 
 
