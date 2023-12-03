@@ -6,16 +6,16 @@ Working video:  https://drive.google.com/file/d/1TPmapCVJ2jzq59Q0sCE0AbimSb1MGtF
 Report: https://drive.google.com/file/d/1IQzFFvCzEuC6SzEnwqLzhPir_Ps1RX-4/view?usp=sharing
 ### change video google drive ownership
 
-# scaled down ingot model for lab training     
+# Ingot model for lab level training     
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/ingot.PNG)
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/classes.PNG)
 
-
-
-
+# Results
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/ingot_result.PNG)
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/dummy-test.PNG)
 
+# Results in real-time plant
+![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/real-time.PNG)
 
 
 #### Add weights file
