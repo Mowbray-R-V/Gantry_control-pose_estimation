@@ -46,14 +46,15 @@ https://drive.google.com/file/d/1PqM1wKWyS0DaIENd9k_z_oc_l2m5y3Mq/view?usp=shari
 
 # Add weights file
 
-# Faster RCCN
+<!-- # Faster RCCN
+
 results
 
 # Fast RCCN
 results
 
 # YOLOV3
-results
+results -->
 
 ### To do
 1. working video transfer
