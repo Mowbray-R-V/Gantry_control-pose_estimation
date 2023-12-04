@@ -1,9 +1,7 @@
 # Pick an place with gantry robot using computer vision for position estimation of payload
 
-# Update in progress
-
-
-Project demonstration:  https://drive.google.com/file/d/1PqM1wKWyS0DaIENd9k_z_oc_l2m5y3Mq/view?usp=sharing
+# Project demonstration
+https://drive.google.com/file/d/1PqM1wKWyS0DaIENd9k_z_oc_l2m5y3Mq/view?usp=sharing
 
 
 
