@@ -57,6 +57,10 @@ results
 # YOLOV3
 results
 
+### To do
+1. working video transfer
+2. weight files
+
 
 # References
 1. Robotic Manipulation:Perception, Planning, and Control (Course Notes for MIT 6.421) - Russ Tedrake, 2021
