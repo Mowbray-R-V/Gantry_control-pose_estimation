@@ -27,7 +27,7 @@ Working video:  https://drive.google.com/file/d/1TPmapCVJ2jzq59Q0sCE0AbimSb1MGtF
 
 
 
-**mapping the depth information from the target coordinates**
+**Mapping the depth information from the target coordinates**
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/mapping-depth-information-from-the-target-coordinates.PNG)
 
 
