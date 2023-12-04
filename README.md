@@ -22,8 +22,8 @@ Working video:  https://drive.google.com/file/d/1TPmapCVJ2jzq59Q0sCE0AbimSb1MGtF
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/block-diagram.PNG)
 
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/layout.PNG)
-
 ![](https://github.com/Mowbray-R-V/Gantry_control-pose_estimation/blob/main/layout-2.PNG)
+
 
 
 
