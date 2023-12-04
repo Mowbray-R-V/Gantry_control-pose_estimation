@@ -56,9 +56,6 @@ results
 # YOLOV3
 results -->
 
-### To do
-1. working video transfer
-2. weight files
 
 
 # References
